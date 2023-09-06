@@ -1,5 +1,5 @@
 # 💫 About Me:
-😊 | Aspiring Full Stack Developer <br>🌌 | PG-DAC (CDAC-NOIDA) <br>🔭 | Currently Exploring Creative Skill about Developer / DevOps<br>👨‍🎓  | BE MECHANICAL ⚙<br>🏃‍♂️  | Football
+😊 | Aspiring Full Stack Developer <br> 🌍 | Software Developer at THALES Group <br>🌌 | PG-DAC (CDAC-NOIDA) <br>🔭 | Currently Exploring Creative Skill about Developer / DevOps<br>👨‍🎓  | BE MECHANICAL ⚙<br>🏃‍♂️  | Football
 
 
 ## 🌐 Socials:
